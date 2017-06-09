@@ -4,7 +4,7 @@ This is a simple module that you can use to read and write key/values and use th
 
 ## Initialization
 Download the `Preferences.js` file and put in your project.
-`var Preferences = require('/Logic/Preferences.js');`
+```var Preferences = require('/Logic/Preferences.js');```
 
 ## Usage
 
