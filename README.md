@@ -1,0 +1,2 @@
+# FusePreferences
+Fuse Preferences Class
